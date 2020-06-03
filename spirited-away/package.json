@@ -1,0 +1,21 @@
+{
+    "name": "spirited-away",
+    "displayName": "spirited-away",
+    "description": "Vscode theme based on the color palette from Studio Ghibli's Spirited Away",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "spirited-away",
+                "uiTheme": "vs-dark",
+                "path": "./themes/spirited-away-color-theme.json"
+            }
+        ]
+    }
+}
