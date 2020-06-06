@@ -63,36 +63,6 @@
 				"foreground": "#E89487"
 			}
 		},
-		// {
-		// 	"name": "Keyword, Storage",
-		// 	"scope": [
-		// 		"keyword",
-		// 		"keyword.operator.arithmetic.js"
-		// 	],
-		// 	"settings": {
-		// 		"foreground": "#E89487"
-		// 	}
-		// },
-		// {
-		// 	"name": "Keyword, Storage",
-		// 	"scope": [
-		// 		"keyword",
-		// 		"keyword.operator.relational.js"
-		// 	],
-		// 	"settings": {
-		// 		"foreground": "#E89487"
-		// 	}
-		// },
-		// {
-		// 	"name": "Keyword, Storage",
-		// 	"scope": [
-		// 		"keyword",
-		// 		"storage.type.function.arrow.js"
-		// 	],
-		// 	"settings": {
-		// 		"foreground": "#E89487"
-		// 	}
-		// },
 		{
 			"name": "Keyword, Storage",
 			"scope": [
@@ -142,9 +112,31 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#49B1E9"
+			"foreground": "#6DB5D9"
 			}
 		},
+		{
+			"name": "Text",
+			"scope": [
+				"string.quoted.double.html",
+				"meta.attribute.rel.html",
+				"meta.tag.metadata.link.void.html"
+			],
+			"settings": {
+			"foreground": "#E89487"
+			}
+		},
+		// {
+		// 	"name": "Text",
+		// 	"scope": [
+		// 		"entity.name.tag",
+		// 		"meta.tag.sgml",
+		// 		"markup.deleted.git_gutter"
+		// 	],
+		// 	"settings": {
+		// 	"foreground": "#e89487"
+		// 	}
+		// },
 		{
 			"name": "Function, Special Method",
 			"scope": [
