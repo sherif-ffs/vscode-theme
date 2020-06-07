@@ -2,11 +2,39 @@
 	"name": "spirited-away",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#1e1d22",
+		// editor
+		"editor.background": "#28272e",
 		"editor.foreground": "#e1e1e8",
+		"editorLineNumber.foreground": "#b39f9f",
+		"editorLineNumber.activeForeground": "#F8C9C9",
+		"editor.selectionBackground": "#edf7fd",
+		"editor.selectionForeground": "#F8C9C9",
+
+		"editor.selectionHighlightBorder": "#ea6465",
+	
+		// other
 		"activityBarBadge.background": "#ea6465",
 		"sideBarTitle.foreground": "#e1e1e8",
-	},
+		"terminal.background": "#28272e",
+		"terminal.foreground": "#F8C9C9",
+		"terminalCursor.foreground": "#F8C9C9",	
+		"statusBar.background": "#28272e",
+		"statusBar.foreground": "#F8C9C9",
+		"statusBar.border": "#28272e",
+		"statusBarItem.hoverBackground": "#1e1d22",
+		"button.background": "#EF8181",
+		"button.foreground": "#1e1d22",
+		"button.hoverBackground": "#ea6465",
+		"scrollbarSlider.activeBackground": "#F8C9C9",
+		"scrollbarSlider.hoverBackground": "#F8C9C9",
+		"badge.foreground": "#ea6465",
+		"badge.background": "#1e1d22",
+		"sideBar.background": "#28272e",
+		"sideBar.foreground": "#e1e1e8",
+		"welcomePage.buttonBackground": "#ea6465",
+		"list.activeSelectionBackground": "#28272e",
+		"list.activeSelectionForeground": "#d68383",
+		},
 	"tokenColors": [
 		{
 			"name": "Comment",
@@ -15,7 +43,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "bold",
 				"foreground": "#546E7A"
 			}
 		},
@@ -70,7 +98,7 @@
 				"support.constant.math.js"
 			],
 			"settings": {
-				"foreground": "#747474"
+				"foreground": "#C16733"
 			}
 		},
 		{
@@ -126,6 +154,18 @@
 			"foreground": "#E89487"
 			}
 		},
+		{
+			"name": "Json",
+			"scope": [
+				"support.type.property-name.json.comments",
+				"string.json.comments",
+				"meta.structure.dictionary.json.comments",
+				"source.json.comments"
+			],
+			"settings": {
+			"foreground": "#E89487"
+			}
+		},
 		// {
 		// 	"name": "Text",
 		// 	"scope": [
@@ -148,6 +188,15 @@
 			],
 			"settings": {
 				"foreground": "#da7163"
+			}
+		},
+		{
+			"name": "Console.log",
+			"scope": [
+				"support.function.console.js",
+			],
+			"settings": {
+				"foreground": "#EE8181"
 			}
 		},
 		{
@@ -317,6 +366,18 @@
 			],
 			"settings": {
 				"foreground": "#c5f3ee"
+			}
+		},
+		{
+			"name": "Loops & Returns",
+			"scope": [
+				"keyword.control.flow.js",
+				"keyword.control.loop.js",
+				"keyword.control.at-rule.media.scss",
+				"keyword.control.at-rule.import.scss"
+			],
+			"settings": {
+				"foreground": "#61D1C4"
 			}
 		},
 		{
