@@ -85,6 +85,7 @@
 				"keyword.operator.relational.js",
 				"storage.type.function.arrow.js",
 				"keyword.operator.increment.js",
+				"keyword.operator.decrement.js",
 				"keyword.operator.assignment.js"
 			],
 			"settings": {
@@ -374,10 +375,25 @@
 				"keyword.control.flow.js",
 				"keyword.control.loop.js",
 				"keyword.control.at-rule.media.scss",
-				"keyword.control.at-rule.import.scss"
+				"keyword.control.at-rule.media.css",
+				"keyword.control.at-rule.import.scss",
+				"keyword.control.import.from.python",
+				"keyword.control.import.python",
+				"keyword.control.import.js",
+				"keyword.control.from.js"
 			],
 			"settings": {
 				"foreground": "#61D1C4"
+			}
+		},
+		{
+			"name": "This",
+			"scope": [
+				"variable.language.this.js"
+			],
+			"settings": {
+				"foreground": "#cf3e28",
+				"fontStyle": "bold"
 			}
 		},
 		{
