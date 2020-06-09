@@ -1,14 +1,19 @@
 {
     "name": "spirited-away",
+    "publisher": "sherif-ffs",
     "displayName": "spirited-away",
-    "description": "Vscode theme based on the color palette from Studio Ghibli's Spirited Away",
-    "version": "0.0.1",
+    "description": "Vscode theme loosely based on Studio Ghibli's masterpiece Spirited Away",
+    "version": "0.0.5",
     "engines": {
         "vscode": "^1.45.0"
     },
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/sherif-ffs/vscode-theme"
+      },
     "contributes": {
         "themes": [
             {

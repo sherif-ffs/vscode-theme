@@ -1,13 +1,29 @@
-# README
-## This is the README for your extension "spirited-away"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## Spirited Away Inspired VS Code Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+<p align="center">
+<img alt="Chihiro" src="https://user-images.githubusercontent.com/46908343/84098889-5b6a2580-a9d6-11ea-9614-efee4d9e97fd.png" width="100" />
+</p>
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+#### CSS
+<img width="1000" alt="vscode-css" src="https://user-images.githubusercontent.com/46908343/84098388-1bef0980-a9d5-11ea-8fc0-9f5486995848.png">
 
-**Enjoy!**
+#### Python
+<img width="1000" alt="vscode-python" src="https://user-images.githubusercontent.com/46908343/84098419-31fcca00-a9d5-11ea-9a9e-42f591447903.png">
+
+#### JavaScript
+<img width="1294" alt="vscode-js" src="https://user-images.githubusercontent.com/46908343/84098437-4345d680-a9d5-11ea-9448-80bab0547813.png">
+
+
+## Supported Languages
+
+|   | Mainly supported |
+|  HTML/Jinja | ✅ |
+|  CSS/SCSS | ✅ |
+|  Python/Flask | ✅ |
+|  JavaScript/React | ✅ |
+
+
+## Written By
+[Sherif Elmetwally](https://github.com/sherif-ffs)
+
+![spirited-away-train-tracks](https://user-images.githubusercontent.com/46908343/84099004-a421de80-a9d6-11ea-9639-c6750df7169b.jpg)
