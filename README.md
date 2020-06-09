@@ -1,7 +1,7 @@
 ## Spirited Away Inspired VS Code Theme
 
 <p align="center">
-<img alt="Chihiro" src="https://user-images.githubusercontent.com/46908343/84098889-5b6a2580-a9d6-11ea-9614-efee4d9e97fd.png" width="100" />
+<img alt="Chihiro" src="https://user-images.githubusercontent.com/46908343/84098889-5b6a2580-a9d6-11ea-9614-efee4d9e97fd.png" width="300" />
 </p>
 
 #### CSS
