@@ -21,3 +21,13 @@ function pearson(x, y){
 }
 
 hmmArray.push(percentRank(human_development_index_array, dataWithValues[i].totalValue[0]))
+
+for (var i = 0; i < array.length; i++) {
+    if (array[i] < n) {
+        L += 1
+    } else if (array[i] === n) {
+        S += 1
+    } else {
+
+    }
+}
