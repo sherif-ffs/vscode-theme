@@ -11,7 +11,7 @@
 <img width="1300" alt="vscode-python" src="https://user-images.githubusercontent.com/46908343/84098419-31fcca00-a9d5-11ea-9a9e-42f591447903.png">
 
 #### JavaScript
-<img width="1294" alt="vscode-js" src="https://user-images.githubusercontent.com/46908343/84098437-4345d680-a9d5-11ea-9448-80bab0547813.png">
+<img width="1300" alt="vscode-js" src="https://user-images.githubusercontent.com/46908343/84098437-4345d680-a9d5-11ea-9448-80bab0547813.png">
 
 
 ## Supported Languages
