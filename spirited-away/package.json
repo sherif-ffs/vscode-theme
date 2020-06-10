@@ -3,9 +3,9 @@
     "publisher": "sherif-ffs",
     "displayName": "spirited-away",
     "description": "Vscode theme loosely based on Studio Ghibli's masterpiece Spirited Away",
-    "version": "0.0.6",
+    "version": "0.0.8",
     "engines": {
-        "vscode": "^1.45.0"
+        "vscode": "1.37.0"
     },
     "categories": [
         "Themes"
